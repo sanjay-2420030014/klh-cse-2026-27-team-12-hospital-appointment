@@ -1,0 +1,30 @@
+[
+  {
+    "appointment_id": "J001",
+    "patient_id": "JP001",
+    "patient_name": "Nisha Rao",
+    "age": 37,
+    "gender": "F",
+    "doctor_id": "D001",
+    "doctor_name": "Dr Sharma",
+    "department": "Cardiology",
+    "booking_date": "2026-08-21",
+    "appointment_date": "2026-08-31",
+    "appointment_time": "10:00",
+    "status": "Completed"
+  },
+  {
+    "appointment_id": "J002",
+    "patient_id": "JP002",
+    "patient_name": "Ramesh Kumar",
+    "age": 55,
+    "gender": "M",
+    "doctor_id": "D004",
+    "doctor_name": "Dr Patel",
+    "department": "Neurology",
+    "booking_date": "2026-08-22",
+    "appointment_date": "2026-09-01",
+    "appointment_time": "14:00",
+    "status": "No-Show"
+  }
+]

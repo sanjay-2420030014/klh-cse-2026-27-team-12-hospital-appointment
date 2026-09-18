@@ -1,0 +1,21 @@
+appointment_id,patient_id,patient_name,age,gender,doctor_id,doctor_name,department,booking_date,appointment_date,appointment_time,status
+A001,P001,Ravi Kumar,34,M,D001,Dr Sharma,Cardiology,2026-08-01,2026-08-05,10:00,Completed
+A002,P002,Priya Reddy,28,F,D002,Dr Mehta,General Medicine,2026-08-02,2026-08-08,11:00,No-Show
+A003,P003,Arjun Rao,52,M,D001,Dr Sharma,Cardiology,2026-08-03,2026-08-10,09:30,Completed
+A004,P004,Anita Devi,45,F,D003,Dr Kumar,Orthopedics,2026-08-04,2026-08-12,14:00,Cancelled
+A005,P005,Suresh Babu,61,M,D004,Dr Patel,Neurology,2026-08-05,2026-08-15,15:30,Completed
+A006,P006,Meena Shah,39,F,D002,Dr Mehta,General Medicine,2026-08-06,2026-08-09,12:00,No-Show
+A007,P007,Vikram Singh,47,M,D003,Dr Kumar,Orthopedics,2026-08-07,2026-08-14,10:30,Completed
+A008,P008,Lakshmi Rao,31,F,D004,Dr Patel,Neurology,2026-08-08,2026-08-18,16:00,Completed
+A009,P009,Kiran Das,56,M,D001,Dr Sharma,Cardiology,2026-08-09,2026-08-20,11:30,Cancelled
+A010,P010,Sneha Iyer,26,F,D002,Dr Mehta,General Medicine,2026-08-10,2026-08-16,09:00,Completed
+A011,P011,Rohit Jain,42,M,D003,Dr Kumar,Orthopedics,2026-08-11,2026-08-19,13:30,No-Show
+A012,P012,Divya Nair,36,F,D004,Dr Patel,Neurology,2026-08-12,2026-08-22,10:00,Completed
+A013,P013,Neha Rao,29,F,D001,Dr Sharma,Cardiology,2026-08-13,2026-08-23,11:00,Completed
+A014,P014,Mohan Das,50,M,D003,Dr Kumar,Orthopedics,2026-08-14,2026-08-24,14:30,Cancelled
+A015,P015,Kavya Nair,33,F,D002,Dr Mehta,General Medicine,2026-08-15,2026-08-25,10:30,Completed
+A016,P016,Ajay Kumar,58,M,D004,Dr Patel,Neurology,2026-08-16,2026-08-26,15:00,No-Show
+A017,P017,Swathi Rao,41,F,D001,Dr Sharma,Cardiology,2026-08-17,2026-08-27,09:30,Completed
+A018,P018,Manoj Reddy,63,M,D003,Dr Kumar,Orthopedics,2026-08-18,2026-08-28,12:30,Completed
+A019,P019,Anjali Shah,30,F,D002,Dr Mehta,General Medicine,2026-08-19,2026-08-29,11:30,Cancelled
+A020,P020,Harish Das,49,M,D004,Dr Patel,Neurology,2026-08-20,2026-08-30,16:00,Completed

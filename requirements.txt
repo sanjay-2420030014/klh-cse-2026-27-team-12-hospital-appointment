@@ -1,0 +1,5 @@
+pandas>=2.0
+pymongo>=4.6
+streamlit>=1.35
+plotly>=5.20
+openpyxl>=3.1
